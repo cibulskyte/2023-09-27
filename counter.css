@@ -1,0 +1,22 @@
+#numbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.button-positive {
+    background-color:red;
+    padding:20px 20px 20px 20px;
+    border-style: 2px solid black;
+}
+
+.button-reset {
+    background-color: grey;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 10px;
+}
